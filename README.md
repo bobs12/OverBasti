@@ -9,3 +9,11 @@
 - **Intuitive commands**: 
 
 Try it to make your life easier!
+
+
+Commands
+basti_save                      # Save and named conection for quick access
+basti_connect <host name>       # Connect with savet host, write saved hostname
+basti_list                      # List saved hostname
+basti_rm <host name>            # Delete host
+basti_list                      # Show all connection
